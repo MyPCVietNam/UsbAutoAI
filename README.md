@@ -2,6 +2,10 @@
 
 **Cài Windows tự động — Chuẩn mới cho người Việt**
 
+![UsbAutoAI 2026 Poster](assets/usbautoai-poster.png)
+
+> Windows sạch. Tự động. Ổn định. Tương thích cao.
+
 UsbAutoAI là nền tảng cài đặt Windows tự động của **MYPC.VN**, được xây dựng để giúp việc cài lại Windows trở nên sạch hơn, ổn định hơn và dễ kiểm soát hơn.
 
 Đại diện kỹ thuật: **LongFix**.
