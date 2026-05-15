@@ -1,8 +1,8 @@
 # Windows sạch
 
-Windows sạch là triết lý cốt lõi của MyPC: cài đặt gọn gàng, minh bạch và ưu tiên độ ổn định lâu dài.
+Windows sạch là triết lý cốt lõi của MyPC: giữ hệ thống gọn, minh bạch và dễ bảo trì, nhưng không cắt gọt cực đoan.
 
-UsbAutoAI không hướng đến việc cắt gọt cực đoan hay thay đổi sâu Windows. Sản phẩm giữ những thành phần quan trọng để hệ thống vẫn cập nhật, bảo vệ và tương thích tốt với phần cứng, phần mềm.
+UsbAutoAI không hướng tới việc tạo ra một bản Windows lạ, thiếu thành phần hoặc khó cập nhật. Mục tiêu là giữ nền tảng Windows quen thuộc, giảm các yếu tố gây phiền nhiễu và tránh can thiệp sâu vào hệ điều hành.
 
 ## Nguyên tắc của MyPC
 
@@ -13,21 +13,20 @@ UsbAutoAI không hướng đến việc cắt gọt cực đoan hay thay đổi 
 - Không phần mềm rác.
 - Giữ Windows Defender.
 - Giữ Windows Update hoạt động bình thường.
-- Ưu tiên ổn định và tương thích cao.
+- Ưu tiên ổn định, tương thích và khả năng hỗ trợ lâu dài.
 
-## Sạch nhưng không cắt gọt cực đoan
+## Sạch nhưng vẫn thực tế
 
-Một bản Windows quá nhẹ có thể gây mất tính năng, lỗi driver, lỗi cập nhật hoặc lỗi khi dùng phần mềm chuyên dụng.
+Một bản Windows bị cắt quá mạnh có thể gây lỗi cập nhật, lỗi driver hoặc thiếu thành phần khi chạy phần mềm chuyên dụng. Vì vậy, MyPC chọn hướng cân bằng:
 
-MyPC chọn cách tiếp cận cân bằng:
-
-- Loại bỏ những thứ gây phiền nhiễu khi phù hợp.
-- Giữ lại nền tảng cần thiết của Windows.
-- Không can thiệp vào các thành phần bảo mật quan trọng.
+- Giảm những yếu tố không cần thiết khi phù hợp.
+- Giữ các thành phần nền tảng của Windows.
+- Không tắt cơ chế bảo mật quan trọng.
+- Không hứa hẹn tăng tốc phi thực tế.
 - Không đánh đổi độ ổn định lấy cảm giác "nhẹ" ngắn hạn.
 
 ## Vì sao điều này quan trọng?
 
-Người dùng cá nhân cần một máy tính để dùng hằng ngày. Kỹ thuật viên cần một bộ cài ít lỗi. Doanh nghiệp cần hệ thống ổn định, dễ cập nhật và dễ hỗ trợ.
+Người dùng cá nhân cần một máy tính hoạt động ổn định hằng ngày. Kỹ thuật viên cần bộ cài ít phát sinh lỗi. Doanh nghiệp cần hệ thống dễ cập nhật, dễ hỗ trợ và không gắn với rủi ro bản quyền.
 
-Windows sạch giúp cả ba nhóm đó có chung một điểm bắt đầu đáng tin cậy hơn.
+Windows sạch giúp tất cả bắt đầu từ một nền tảng đáng tin hơn.

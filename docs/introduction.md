@@ -2,23 +2,24 @@
 
 **UsbAutoAI là nền tảng cài đặt Windows tự động hiện đại dành cho người Việt.**
 
-Sản phẩm giúp rút gọn quá trình cài Windows: cắm USB, boot máy, chọn bộ Windows và để hệ thống tự động xử lý phần còn lại.
+Sản phẩm được phát triển trong hệ sinh thái **MYPC.VN** để giúp quá trình cài Windows trở nên rõ ràng, sạch và dễ lặp lại hơn. Người dùng chỉ cần cắm USB, boot máy, chọn bộ Windows phù hợp và để hệ thống tự động xử lý các bước còn lại.
 
-UsbAutoAI được xây dựng cho nhu cầu cài đặt thực tế: nhanh hơn, dễ hiểu hơn, ít phụ thuộc vào thao tác thủ công và phù hợp với nhiều nhóm người dùng.
+## Định vị sản phẩm
 
-## UsbAutoAI không phải gì?
+UsbAutoAI không phải Ghost Win, không phải công cụ crack, không phải USB boot truyền thống và không phải bản Windows Lite/mod sâu.
 
-- Không phải Ghost Win.
-- Không phải công cụ crack.
-- Không phải USB boot truyền thống.
-- Không phải bản Windows Lite hoặc mod sâu.
+UsbAutoAI là một quy trình triển khai Windows được chuẩn hóa:
 
-## UsbAutoAI tập trung vào điều gì?
+- Dựa trên Windows Microsoft gốc.
+- Giữ Defender và Windows Update.
+- Hạn chế thao tác thủ công.
+- Ưu tiên ổn định, tương thích và khả năng bảo trì.
+- Phù hợp cho người dùng cá nhân, kỹ thuật viên và doanh nghiệp nhỏ.
 
-- Windows sạch, dựa trên Windows Microsoft gốc.
-- Quy trình cài đặt tự động.
-- Độ ổn định và tương thích cao.
-- Trải nghiệm dễ dùng cho người không chuyên.
-- Khả năng áp dụng cho cả cá nhân, kỹ thuật viên và doanh nghiệp.
+## Tư duy thiết kế
 
-> Mục tiêu của UsbAutoAI là biến việc cài Windows thành một quy trình rõ ràng, đáng tin và dễ lặp lại.
+Một bộ cài Windows tốt không chỉ cần cài nhanh. Nó cần đủ sạch để an tâm, đủ ổn định để dùng lâu dài và đủ rõ ràng để người dùng biết mình đang cài gì.
+
+UsbAutoAI được xây dựng theo hướng đó: đơn giản ở bề mặt, có kiểm soát trong quy trình và không gây hiểu nhầm về bản quyền phần mềm.
+
+> Mục tiêu của UsbAutoAI là biến việc cài Windows thành một quy trình đáng tin, dễ lặp lại và phù hợp với nhu cầu thực tế tại Việt Nam.
