@@ -1,6 +1,6 @@
 # Dành cho ai?
 
-UsbAutoAI phù hợp với những người cần cài Windows sạch, nhanh và nhất quán.
+UsbAutoAI phù hợp với những người cần cài Windows sạch, nhanh hơn và nhất quán hơn.
 
 ## Người dùng cá nhân
 
@@ -24,7 +24,7 @@ UsbAutoAI phù hợp với những người cần cài Windows sạch, nhanh và
 
 - Phù hợp khi cần cài lại máy tính văn phòng.
 - Giữ môi trường Windows sạch, dễ cập nhật và dễ hỗ trợ.
-- Không gắn quy trình cài đặt với phần mềm crack hoặc rủi ro bản quyền.
+- Tách biệt quy trình cài đặt với phần mềm crack hoặc rủi ro bản quyền.
 
 ## Phòng net và gaming center
 

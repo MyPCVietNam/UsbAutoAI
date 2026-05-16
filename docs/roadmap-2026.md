@@ -8,10 +8,10 @@ Xây dựng nền tảng Windows by MyPC mới:
 
 - Sạch hơn, ổn định hơn.
 - Giảm yếu tố gây phiền nhiễu khi phù hợp.
-- Giữ Defender, Windows Update và các thành phần quan trọng.
+- Giữ Windows Defender, Windows Update và các thành phần quan trọng.
 - Ưu tiên tương thích với nhiều cấu hình máy.
 
-## Phase 2: MyPC Tool/App Installer
+## Phase 2: MyPC Tool / App Installer
 
 Phát triển công cụ hỗ trợ sau cài đặt:
 
@@ -19,6 +19,8 @@ Phát triển công cụ hỗ trợ sau cài đặt:
 - Không ép cài phần mềm không cần thiết.
 - Cho phép người dùng chọn đúng nhóm ứng dụng mình cần.
 - Hướng tới trải nghiệm quản lý gọn hơn cho kỹ thuật viên.
+
+Tính năng này được xem là kế hoạch phát triển nếu chưa có trong bản phát hành hiện tại.
 
 ## Phase 3: Optimization Profiles
 
@@ -35,7 +37,7 @@ Mỗi hồ sơ sẽ ưu tiên sự cân bằng giữa hiệu năng, ổn định
 
 LongFix AI hiện đang bảo trì và dự kiến trở lại trong thời gian tới.
 
-Khi sẵn sàng, LongFix AI sẽ được trình bày như một phần của hệ sinh thái MyPC theo cách rõ ràng, đúng trạng thái và không gây hiểu nhầm về khả năng hiện tại.
+Khi sẵn sàng, LongFix AI sẽ được trình bày như một phần của hệ sinh thái MYPC.VN theo cách rõ ràng, đúng trạng thái và không gây hiểu nhầm về khả năng hiện tại.
 
 ## Phase 5: Hướng tới triển khai doanh nghiệp
 

@@ -1,10 +1,10 @@
 # Windows sạch
 
-Windows sạch là triết lý cốt lõi của MyPC: giữ hệ thống gọn, minh bạch và dễ bảo trì, nhưng không cắt gọt cực đoan.
+Windows sạch là triết lý cốt lõi của **MYPC.VN**: giữ hệ thống gọn, minh bạch và dễ bảo trì, nhưng không cắt gọt cực đoan.
 
-UsbAutoAI không hướng tới việc tạo ra một bản Windows lạ, thiếu thành phần hoặc khó cập nhật. Mục tiêu là giữ nền tảng Windows quen thuộc, giảm các yếu tố gây phiền nhiễu và tránh can thiệp sâu vào hệ điều hành.
+UsbAutoAI không hướng tới việc tạo ra một bản Windows lạ, thiếu thành phần hoặc khó cập nhật. Mục tiêu là giữ nền tảng Windows quen thuộc, giảm các yếu tố gây phiền nhiễu khi phù hợp và tránh can thiệp sâu vào hệ điều hành.
 
-## Nguyên tắc của MyPC
+## Nguyên tắc của MYPC.VN
 
 - Dựa trên Windows Microsoft gốc.
 - Không quảng cáo.
@@ -17,7 +17,7 @@ UsbAutoAI không hướng tới việc tạo ra một bản Windows lạ, thiế
 
 ## Sạch nhưng vẫn thực tế
 
-Một bản Windows bị cắt quá mạnh có thể gây lỗi cập nhật, lỗi driver hoặc thiếu thành phần khi chạy phần mềm chuyên dụng. Vì vậy, MyPC chọn hướng cân bằng:
+Một bản Windows bị cắt quá mạnh có thể gây lỗi cập nhật, lỗi driver hoặc thiếu thành phần khi chạy phần mềm chuyên dụng. Vì vậy, MYPC.VN chọn hướng cân bằng:
 
 - Giảm những yếu tố không cần thiết khi phù hợp.
 - Giữ các thành phần nền tảng của Windows.

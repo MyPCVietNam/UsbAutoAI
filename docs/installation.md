@@ -18,9 +18,9 @@ UsbAutoAI được thiết kế để quy trình cài Windows dễ hiểu hơn, 
 
    Chọn phiên bản phù hợp, ví dụ Windows by MyPC hoặc Windows Microsoft Original.
 
-4. **Chờ hệ thống hoàn tất**
+4. **Theo dõi quá trình cài đặt**
 
-   Sau khi xác nhận, hệ thống sẽ tự động xử lý quy trình cài đặt. Người dùng chỉ cần chờ đến khi máy vào desktop.
+   Sau khi xác nhận, hệ thống sẽ xử lý phần lớn quy trình cài đặt. Người dùng cần theo dõi trạng thái và chỉ thao tác khi có hướng dẫn rõ ràng.
 
 ## Lưu ý quan trọng
 
